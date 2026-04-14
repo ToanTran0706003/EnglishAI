@@ -41,3 +41,7 @@ _ReSharper*/
 # dotenv
 .env
 
+# Cursor / local docs
+/.cursorrules
+/docs/
+
